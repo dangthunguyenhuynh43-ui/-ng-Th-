@@ -3,10 +3,10 @@
     <meta charset = "UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHƯƠNG DUYÊN</title>
+    <title>ĐĂNG THƯ</title>
     <style>
       body {
-        background-image: url('Đăng Thư.png');
+        background-image: url('THƯ.jpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
@@ -32,7 +32,7 @@
   }
 </style>
 <div class="card">
-        <img src="THƯ.jpg" class="avatar">
+        <img src="Đăng Thư.png" class="avatar">
 <body>
     <div class="background"></div>
     <div class="container">
